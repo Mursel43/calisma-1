@@ -1,0 +1,36 @@
+h1{
+    color: #ffffff;
+    background-color: #000;
+    text-decoration: underline;
+    text-align: center;
+
+}
+h2{
+    text-align: center;
+
+}
+p{
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
+
+li{
+    text-align: center;
+    
+}
+ul{
+    border: 2px solid #000;
+}
+
+.images{
+    text-align: center;
+}
