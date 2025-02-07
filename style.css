@@ -29,6 +29,7 @@ li{
 }
 ul{
     border: 2px solid #000;
+    list-style: inside;
 }
 
 .images{
